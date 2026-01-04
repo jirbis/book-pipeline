@@ -1,8 +1,11 @@
+# README FOR HUMANS:
+ [https://jirbis.github.io/ai-book-pipeline](https://jirbis.github.io/ai-book-pipeline)
+
+
 # Book Pipeline for Claude Code Agents
 
 Pipeline for writing books with AI agents via Claude Code.
 
-## ->README FOR HUMANS: [https://jirbis.github.io/ai-book-pipeline](https://jirbis.github.io/ai-book-pipeline)
 
 ## New here?
 
