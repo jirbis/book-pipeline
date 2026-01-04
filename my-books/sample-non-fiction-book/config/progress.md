@@ -14,16 +14,17 @@
 ### Overall Progress
 
 ```
-███░░░░░░░░░░░░░░░░░ 13% (9,122 / 70,000 words)
+████░░░░░░░░░░░░░░░░ 16% (11,539 / 70,000 words)
 ```
 
 | Metric | Value |
 |---------|----------|
-| **Words Written** | 9,122 |
-| **Chapters Complete** | 4 / 19 (incl. intro) |
+| **Words Written** | 11,539 |
+| **Chapters Complete** | 5 / 19 (incl. intro) |
 | **Days Active** | 1 |
-| **Avg Words/Day** | 9,122 |
+| **Avg Words/Day** | 11,539 |
 | **Part I (Market Reality)** | ✅ Complete (3/3 chapters) |
+| **Part II (Platforms)** | 🟡 In Progress (1/3 chapters) |
 
 ### Project Phase
 
@@ -44,7 +45,7 @@
 | 1 | Why Most Traders Lose Money | 3,500 | 2,812 | 80% | ✅ draft-v1 | 2026-01-04 |
 | 2 | How Exchanges Make Money | 3,500 | 2,302 | 66% | ✅ draft-v1 | 2026-01-04 |
 | 3 | Volatility, Leverage, Gambling | 3,500 | 2,114 | 60% | ✅ draft-v1 | 2026-01-04 |
-| 4 | eToro — Copy Trading Reality | 3,000 | 0 | 0% | ⬜ outline | - |
+| 4 | eToro — Copy Trading Reality | 3,000 | 2,417 | 81% | ✅ draft-v1 | 2026-01-04 |
 | 5 | Binance — Power and Danger | 3,500 | 0 | 0% | ⬜ outline | - |
 | 6 | Coinbase and Other Platforms | 3,000 | 0 | 0% | ⬜ outline | - |
 | 7 | Bitcoin — The Gravity Center | 3,500 | 0 | 0% | ⬜ outline | - |
@@ -112,16 +113,17 @@
 ✅ Chapter 1 (2,812 words): Why most traders lose (zero-sum game, fees, emotional trading)
 ✅ Chapter 2 (2,302 words): How exchanges profit ($261 fees, copy trading illusion, $82k opportunity cost)
 ✅ Chapter 3 (2,114 words): Volatility vs leverage ($8k liquidation, 5x wiped 6 months gains)
+✅ Chapter 4 (2,417 words): eToro copy trading ($2,100 loss, slippage, dependency trap, learning sandbox)
 ✅ Part I (Market Reality): Complete - all 3 chapters drafted
 ✅ Author voice established: confessional, specific dollar amounts, blunt truth-telling
 
 **Next steps**:
-- Part II (Platforms): Chapters 4-6 (eToro, Binance, Coinbase)
+- Part II (Platforms): Chapters 5-6 (Binance, Coinbase) - 1 of 3 complete
 - Part III (Coins): Chapters 7-9 (Bitcoin, Ethereum, altcoins)
 - Part IV (Wins & Losses): Chapters 10-12 (personal case studies)
 - Part V (Strategy): Chapters 13-15 (regimes, risk, drawdowns)
 - Part VI (Sustainability): Chapters 16-18 (profits, compounding, mental health)
 - Conclusion: ~2,500 words
 
-**Current pace**: 9,122 words in 1 day
-**Remaining**: ~60,878 words (~7 more days at current pace)
+**Current pace**: 11,539 words in 1 day
+**Remaining**: ~58,461 words (~5-6 more days at current pace)
