@@ -93,7 +93,7 @@ The book speaks to overwhelmed beginners and bruised returnees who have chased p
 ### Current stage
 - [x] Research
 - [x] Planning
-- [x] First draft (in progress - 13% complete)
+- [x] First draft (in progress - 16% complete)
 - [ ] Editing
 - [ ] Final proofread
 
@@ -105,14 +105,15 @@ The book speaks to overwhelmed beginners and bruised returnees who have chased p
 | Ch 1 — Why Most Traders Lose | draft-v1 ✅ | 2,812 | 2026-01-04 |
 | Ch 2 — How Exchanges Make Money | draft-v1 ✅ | 2,302 | 2026-01-04 |
 | Ch 3 — Volatility, Leverage, Gambling | draft-v1 ✅ | 2,114 | 2026-01-04 |
-| Part II (Ch 4-6) — Platforms | outline | 0 | - |
+| Ch 4 — eToro: Copy Trading Reality | draft-v1 ✅ | 2,417 | 2026-01-04 |
+| Ch 5-6 — Binance, Coinbase | outline | 0 | - |
 | Part III (Ch 7-9) — Coins | outline | 0 | - |
 | Part IV (Ch 10-12) — Wins & Losses | outline | 0 | - |
 | Part V (Ch 13-15) — Strategy | outline | 0 | - |
 | Part VI (Ch 16-18) — Sustainability | outline | 0 | - |
 | Conclusion | outline | 0 | - |
 
-**Total**: 9,122 / 70,000 words (13.0%)
+**Total**: 11,539 / 70,000 words (16.5%)
 
 ---
 
@@ -137,9 +138,11 @@ The book speaks to overwhelmed beginners and bruised returnees who have chased p
 - Chapter 1 draft (2,812 words): Why most traders lose money (zero-sum game, fees, emotional vs systematic)
 - Chapter 2 draft (2,302 words): How exchanges make money ($261 in fees, copy trading illusion, opportunity cost)
 - Chapter 3 draft (2,114 words): Volatility vs leverage ($8k liquidation, 5x wiped 6 months gains, spot holdings survive)
+- Chapter 4 draft (2,417 words): eToro copy trading ($2,100 loss, slippage gaps, dependency trap, learning sandbox approach)
 - **Part I (Market Reality) Complete**: Chapters 1-3 drafted
-- Total progress: 9,122 / 70,000 words (13.0%)
-- Remaining: Chapters 4-18 + Conclusion (~60,878 words)
+- **Part II (Platforms) Started**: Chapter 4 drafted, Chapters 5-6 pending
+- Total progress: 11,539 / 70,000 words (16.5%)
+- Remaining: Chapters 5-18 + Conclusion (~58,461 words)
 
 **To Do**:
 - Validate platform-specific details (fees, custody limitations, regional restrictions)
