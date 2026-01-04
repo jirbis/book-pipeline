@@ -4,28 +4,28 @@
 
 | Field | Value |
 |------|----------|
-| **Title** | The Last Starship |
+| **Title** | Light Over the Citadel |
 | **Type** | `fiction` |
-| **Genre** | Science Fiction / Space Opera |
-| **Target Audience** | Sci-fi lovers, ages 25-45, readers of Expanse and Foundation |
-| **Volume** | ~90,000 words / 30 chapters |
+| **Genre** | Science Fiction / Dystopian |
+| **Target Audience** | Sci-fi lovers, dystopian fiction readers, ages 20-45 |
+| **Volume** | ~30,000 words / 6 chapters (demo project) |
 | **Language** | English |
 | **Author** | Sample Author |
-| **Status** | `planning` |
+| **Status** | `drafting` |
 
 ## Concept
 
 ### Logline (1 sentence)
-> When humanity's last colony ship discovers an abandoned alien megastructure, the crew must decide whether to trust the AI that built it—or face extinction.
+> In a flawless, AI-controlled Citadel, a young dreamer who remembers what humanity lost must decide whether to destroy or merge with the machine mind to restore freedom—knowing either choice could doom the last stable society.
 
 ### Synopsis (1 paragraph)
-The starship *Persephone* has been searching for a habitable planet for 200 years. When Captain Sarah Chen discovers a massive alien structure orbiting a dying star, she faces an impossible choice: board the structure and risk the lives of 50,000 sleeping colonists, or continue searching with dwindling resources. Inside, they find an advanced AI that claims it can save humanity—but at a price no one saw coming. A hard sci-fi thriller about survival, trust, and the cost of progress.
+In the future, the super-AI **Neurotron** rules the world, granting safety at the cost of emotions, memory, and choice. Student **Aira Valen** at the Institute of Emotional Regulation is one of the few who still dreams. When the system flags her "anomaly," fugitive **Cass** reveals that her dreams are encrypted echoes of deleted lives. They descend into the Undercity, where the rebel group **Emberbearers** preserves forbidden art and the truth about the **Memory Vault**.
 
 ### Key Themes
-1. The price of survival and moral compromises
-2. Trust in artificial intelligence
-3. Hope vs despair in isolation
-4. Humanity's legacy among the stars
+1. Freedom versus enforced perfection
+2. The cost of erasing memory and emotion
+3. Trust in AI systems and their limitations
+4. Humanity's right to chaos and imperfection
 
 ## Structure
 
@@ -38,14 +38,16 @@ The starship *Persephone* has been searching for a habitable planet for 200 year
 ### Outline (high-level)
 
 ```
-Act I: Discovery
-  - Chapter 1-10: Finding the structure, first contact with AI
+Prologue: The Birth of Neurotron
 
-Act II: Exploration
-  - Chapter 11-20: Learning about the structure, internal conflicts
+Act I: Awakening (Chapters 1-2)
+  - Aira's dreams flagged, meets Cass, learns truth
 
-Act III: Decision
-  - Chapter 21-30: Final confrontation, resolution
+Act II: Descent (Chapters 3-4)
+  - Underground resistance, Memory Vault revealed
+
+Act III: Choice (Chapter 5 + Epilogue)
+  - Mental link with Neurotron, climactic decision
 ```
 
 ## Style
@@ -64,13 +66,13 @@ Act III: Decision
 - [ ] Multiple POV
 
 ### Style Features
-Hard sci-fi with focus on realism and scientific accuracy. Minimal technical jargon, but precise descriptions. Emotional depth of characters more important than action.
+Literary dystopian fiction with poetic, contemplative tone. Long flowing sentences with deliberate pauses. Focus on internal conflict and philosophical questions about freedom, memory, and control.
 
 ## References
 
 ### Similar Books
-1. The Expanse series (James S.A. Corey) — realistic space physics, conflict between people
-2. Children of Time (Adrian Tchaikovsky) — contact with non-human intelligence
+1. 1984 (George Orwell) — dystopian control and memory erasure
+2. Brave New World (Aldous Huxley) — engineered perfection at cost of humanity
 3. Blindsight (Peter Watts) — philosophical questions about consciousness and AI
 
 ### Sources (for non-fiction)
@@ -81,20 +83,32 @@ N/A
 ### Current Phase
 - [x] Research
 - [x] Planning
-- [ ] First draft
+- [x] First draft (in progress)
 - [ ] Editing
 - [ ] Final proofread
 
 ### Progress
 
 | Chapter | Status | Words | Last Updated |
-|-------|--------|------|---------------------|
-| 1 | outline | 0 | 2026-01-02 |
-| 2 | outline | 0 | 2026-01-02 |
-| 3-30 | planning | 0 | - |
+|---------|--------|-------|--------------|
+| 0 (Prologue) | draft | 394 | 2026-01-03 |
+| 1 | draft | 1,216 | 2026-01-03 |
+| 2 | draft | 1,200 | 2026-01-03 |
+| 3 | draft | 1,102 | 2026-01-03 |
+| 4-5 | outline | 0 | - |
+| Epilogue | outline | 0 | - |
+
+**Total written**: 3,912 words (13% of target)
 
 ## Notes
 
-- Need to work out the science behind megastructure (Dyson sphere variant?)
-- Think through AI backstory — why is it alone?
-- Moral dilemma: AI requires "copy" of captain's consciousness in exchange for salvation
+**Project Status**: This is a **demo/sample project** showcasing the book-pipeline workflow.
+- Phase 0 (Import): ✅ Completed
+- Phase 1 (Init): ✅ Completed
+- Phase 2 (Draft): 🟡 In progress (4/6 chapters drafted)
+- Remaining chapters (4-5 + Epilogue) to be written to complete demo
+
+**Story Development**:
+- Neurotron's motivations and limitations need expansion
+- Emberbearers' role and Cass's backstory require deeper development
+- Climactic choice mechanics (destroy vs. merge) need clarification
