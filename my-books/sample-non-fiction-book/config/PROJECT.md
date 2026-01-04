@@ -4,28 +4,28 @@
 
 | Поле | Значение |
 |------|----------|
-| **Название** | The Productivity Paradox: Why Doing Less Achieves More |
+| **Название** | Surviving Crypto: How I Stopped Gambling, Learned to Trade, and Finally Became Profitable |
 | **Тип** | `non-fiction` |
-| **Жанр** | Business / Self-Help / Productivity |
-| **Целевая аудитория** | Professionals 30-50, knowledge workers, entrepreneurs |
-| **Объём** | ~60,000 слов / 12 глав |
+| **Жанр** | Finance / Cryptocurrency / Trading / Personal Finance |
+| **Целевая аудитория** | New and early-stage crypto traders, 25-45, retail investors |
+| **Объём** | ~60,000 слов / 18 глав |
 | **Язык** | Английский |
 | **Автор** | Sample Author |
-| **Статус** | `planning` |
+| **Статус** | `import-complete` |
 
 ## Концепция
 
 ### Логлайн (1 предложение)
-> A research-backed guide to achieving more by strategically doing less, challenging the culture of perpetual busyness.
+> A field guide for new crypto traders who want to survive long enough to become profitable by trading systematically, not emotionally.
 
 ### Синопсис (1 абзац)
-We've been sold a lie: that more hours, more tasks, and more hustle equals more success. Drawing from cognitive science, organizational psychology, and real-world case studies, this book reveals why the most productive people aren't the busiest—they're the most strategic. Learn the frameworks used by top performers to identify high-impact work, eliminate decision fatigue, and create sustainable productivity systems that actually work.
+This book is written for new and early-stage crypto traders who feel both fascinated and intimidated by the crypto markets. It is not a get-rich-quick manual, nor a technical textbook—it is a field guide, written by someone who has already paid the tuition fee many times over. Through hard-earned experience trading on eToro, Binance, Coinbase, and other platforms, this book distills a clear, realistic, and repeatable approach to trading crypto. You'll learn how to survive long enough to become profitable, stop trading emotionally, treat crypto as a probability game, and grow capital while protecting yourself from catastrophic loss.
 
 ### Ключевые темы
-1. Quality over quantity в работе
-2. Когнитивная нагрузка и decision fatigue
-3. Системное мышление vs тактическая суета
-4. Sustainable productivity vs burnout
+1. Market reality and trader psychology
+2. Platform selection and risk management
+3. Systematic trading vs emotional gambling
+4. Sustainable profitability through discipline
 
 ## Структура
 
@@ -38,23 +38,35 @@ We've been sold a lie: that more hours, more tasks, and more hustle equals more 
 ### План (высокоуровневый)
 
 ```
-Part I: The Problem (Chapters 1-3)
-  - Chapter 1: The Busy Trap — why we confuse activity with achievement
-  - Chapter 2: The Science of Cognitive Load
-  - Chapter 3: The Cost of Context Switching
+Part I: Understanding the Crypto Market Reality (Chapters 1-3)
+  - Chapter 1: Why Most Traders Lose Money
+  - Chapter 2: How Exchanges Make Money Regardless of Your Success
+  - Chapter 3: Volatility, Leverage, and the Difference Between Trading and Gambling
 
-Part II: The Framework (Chapters 4-8)
-  - Chapter 4: Impact Mapping — identifying high-leverage work
-  - Chapter 5: Energy Management Over Time Management
-  - Chapter 6: The Art of Strategic Saying No
-  - Chapter 7: Systems Over Goals
-  - Chapter 8: Deep Work Protocols
+Part II: Platforms Without Illusions (Chapters 4-6)
+  - Chapter 4: eToro — Social Trading and Copy Trading Reality
+  - Chapter 5: Binance — Power, Complexity, and Hidden Dangers
+  - Chapter 6: Coinbase and Other Platforms — Simplicity vs Flexibility
 
-Part III: Implementation (Chapters 9-12)
-  - Chapter 9: Designing Your Ideal Week
-  - Chapter 10: Tools and Technology
-  - Chapter 11: Team and Organizational Applications
-  - Chapter 12: Sustaining the Practice
+Part III: The Coins That Actually Matter (Chapters 7-9)
+  - Chapter 7: Bitcoin — The Market's Gravity Center
+  - Chapter 8: Ethereum and the Altcoin Ecosystem
+  - Chapter 9: Which Coins Deserve Your Capital
+
+Part IV: My Biggest Wins—and My Worst Losses (Chapters 10-12)
+  - Chapter 10: Trades That Made Life-Changing Money
+  - Chapter 11: Trades That Wiped Out Months of Gains
+  - Chapter 12: Emotional Traps and the Lies Traders Tell Themselves
+
+Part V: The Strategy That Finally Worked (Chapters 13-15)
+  - Chapter 13: Market Regimes and Position Sizing
+  - Chapter 14: Entry, Exit, and Risk Control
+  - Chapter 15: Surviving Drawdowns Without Emotional Collapse
+
+Part VI: Making Profit Without Destroying Yourself (Chapters 16-18)
+  - Chapter 16: When and How to Take Profits
+  - Chapter 17: Compounding Without Increasing Stress
+  - Chapter 18: Sustainable Trading in a 24/7 Market
 ```
 
 ## Стиль
@@ -70,20 +82,21 @@ Part III: Implementation (Chapters 9-12)
 N/A
 
 ### Особенности стиля
-Conversational but authoritative. Use stories and case studies to illustrate concepts. Balance research citations with practical applications. Short paragraphs, clear headings, actionable takeaways.
+Personal, honest, and direct. First-person narrative based on real trading experience. No hype, no promises of easy money. Balance personal stories with practical frameworks. Short paragraphs, clear warnings, actionable strategies.
 
 ## Референсы
 
 ### Похожие книги
-1. Deep Work (Cal Newport) — фокус на концентрацию
-2. Essentialism (Greg McKeown) — философия "less but better"
-3. Four Thousand Weeks (Oliver Burkeman) — философский взгляд на time management
+1. Reminiscences of a Stock Operator (Edwin Lefèvre) — trading psychology
+2. Market Wizards (Jack Schwager) — trader interviews and lessons
+3. The Psychology of Money (Morgan Housel) — financial behavior and decision-making
 
 ### Источники (для non-fiction)
-- Cognitive psychology research on decision fatigue
-- Organizational behavior studies
-- Case studies from Fortune 500 companies
-- Interviews with high performers across industries
+- Personal trading experience across eToro, Binance, Coinbase
+- Real trade histories (wins and losses)
+- Crypto market data and patterns
+- Platform fee structures and mechanics
+- Risk management frameworks
 
 ## Рабочий процесс
 
@@ -98,13 +111,13 @@ Conversational but authoritative. Use stories and case studies to illustrate con
 
 | Глава | Статус | Слов | Последнее обновление |
 |-------|--------|------|---------------------|
-| 1 | outline | 0 | 2026-01-02 |
-| 2 | outline | 0 | 2026-01-02 |
-| 3-12 | planning | 0 | - |
+| 0 (Intro) | planning | 0 | 2026-01-04 |
+| 1-18 | planning | 0 | 2026-01-04 |
 
 ## Заметки
 
-- Нужно провести 5-10 интервью с топ-перформерами
-- Собрать актуальные исследования (последние 5 лет)
-- Разработать практические упражнения для каждой главы
-- Создать downloadable workbook/templates
+- Import completed: crypto-trader-synopsis.md processed
+- Book structure: 6 parts, 18 chapters, ~60,000 words
+- Personal narrative style: first-person trading experiences
+- Focus platforms: eToro, Binance, Coinbase
+- Key message: survive by not losing, systematic over emotional trading
