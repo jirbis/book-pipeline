@@ -1,6 +1,6 @@
-# Progress — Трекинг прогресса
+# Progress — Tracking
 
-## Обзор проекта
+## Project Overview
 
 **Проект**: Surviving Crypto: How I Stopped Gambling, Learned to Trade, and Finally Became Profitable
 **Цель по словам**: 60,000 words
@@ -9,9 +9,9 @@
 
 ---
 
-## Текущий статус
+## Current Status
 
-### Общий прогресс
+### Overall Progress
 
 ```
 ░░░░░░░░░░░░░░░░░░░░ 0% (0 / 60,000 слов)

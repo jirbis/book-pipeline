@@ -1,123 +1,119 @@
-# PROJECT.md — Конфигурация проекта книги
+# PROJECT.md — Book Project Configuration
 
-## Метаданные
+## Metadata
 
-| Поле | Значение |
-|------|----------|
-| **Название** | Surviving Crypto: How I Stopped Gambling, Learned to Trade, and Finally Became Profitable |
-| **Тип** | `non-fiction` |
-| **Жанр** | Finance / Cryptocurrency / Trading / Personal Finance |
-| **Целевая аудитория** | New and early-stage crypto traders, 25-45, retail investors |
-| **Объём** | ~60,000 слов / 18 глав |
-| **Язык** | Английский |
-| **Автор** | Sample Author |
-| **Статус** | `import-complete` |
+| Field | Value |
+| --- | --- |
+| **Title** | Surviving Crypto: How I Stopped Gambling, Learned to Trade, and Finally Becwame Profitable |
+| **Type** | `non-fiction` |
+| **Genre** | Personal finance / Trading psychology / Cryptocurrency |
+| **Target audience** | New and early-stage crypto traders (and returning traders rebuilding after losses) |
+| **Length** | ~70,000 words / 6 parts (~18 chapters) |
+| **Language** | English |
+| **Author** | To confirm — first-person trader voice |
+| **Status** | `imported` |
 
-## Концепция
+---
 
-### Логлайн (1 предложение)
-> A field guide for new crypto traders who want to survive long enough to become profitable by trading systematically, not emotionally.
+## Concept
 
-### Синопсис (1 абзац)
-This book is written for new and early-stage crypto traders who feel both fascinated and intimidated by the crypto markets. It is not a get-rich-quick manual, nor a technical textbook—it is a field guide, written by someone who has already paid the tuition fee many times over. Through hard-earned experience trading on eToro, Binance, Coinbase, and other platforms, this book distills a clear, realistic, and repeatable approach to trading crypto. You'll learn how to survive long enough to become profitable, stop trading emotionally, treat crypto as a probability game, and grow capital while protecting yourself from catastrophic loss.
+### Logline (1 sentence)
 
-### Ключевые темы
-1. Market reality and trader psychology
-2. Platform selection and risk management
-3. Systematic trading vs emotional gambling
-4. Sustainable profitability through discipline
+A candid field guide from a trader who burned out on gambling behaviors and learned to survive—and profit—by treating crypto like a probability game with strict risk discipline.
 
-## Структура
+### Synopsis (1 paragraph)
 
-### Формат
-- [x] Главы с номерами
-- [ ] Части + главы
-- [x] Главы с названиями
-- [ ] Другое: ___
+The book speaks to overwhelmed beginners and bruised returnees who have chased pumps, overleveraged, and lost; it reframes crypto from casino to navigable high-risk ecosystem, compares platforms without hype, shows which coin categories merit attention, and uses the author’s biggest wins and worst losses to illustrate how a simple, repeatable strategy built on position sizing, market regimes, and emotional control can keep traders solvent long enough to become consistently profitable.
 
-### План (высокоуровневый)
+### Key themes
+1. Survival through disciplined risk and position sizing
+2. Platform fluency and security-minded operational habits
+3. Narrative-aware coin selection (Bitcoin/Ethereum as anchors vs. short-lived alt narratives)
+4. Lessons from personal wins and losses as operating principles
+5. Profit-taking and mental health as core parts of the system
 
-```
-Part I: Understanding the Crypto Market Reality (Chapters 1-3)
-  - Chapter 1: Why Most Traders Lose Money
-  - Chapter 2: How Exchanges Make Money Regardless of Your Success
-  - Chapter 3: Volatility, Leverage, and the Difference Between Trading and Gambling
+---
 
-Part II: Platforms Without Illusions (Chapters 4-6)
-  - Chapter 4: eToro — Social Trading and Copy Trading Reality
-  - Chapter 5: Binance — Power, Complexity, and Hidden Dangers
-  - Chapter 6: Coinbase and Other Platforms — Simplicity vs Flexibility
+## Structure
 
-Part III: The Coins That Actually Matter (Chapters 7-9)
-  - Chapter 7: Bitcoin — The Market's Gravity Center
-  - Chapter 8: Ethereum and the Altcoin Ecosystem
-  - Chapter 9: Which Coins Deserve Your Capital
+### Format
+- [ ] Numbered chapters
+- [x] Parts + chapters
+- [x] Chapters with titles
+- [ ] Other: ___
 
-Part IV: My Biggest Wins—and My Worst Losses (Chapters 10-12)
-  - Chapter 10: Trades That Made Life-Changing Money
-  - Chapter 11: Trades That Wiped Out Months of Gains
-  - Chapter 12: Emotional Traps and the Lies Traders Tell Themselves
+### High-level plan
+- **Part I — Understanding the Crypto Market Reality:** why most traders lose, exchange incentives, volatility vs. leverage, investing vs. gambling
+- **Part II — Platforms Without Illusions:** eToro, Binance, Coinbase; platform choice by risk profile; custody and withdrawal risks
+- **Part III — The Coins That Actually Matter:** Bitcoin as gravity, Ethereum’s role, Layer 1/Layer 2/DeFi/AI/meme narratives and how to treat them
+- **Part IV — Wins and Losses:** personal case studies of trades that worked or collapsed and what they prove
+- **Part V — The Strategy That Finally Worked:** market regimes, position sizing, fewer high-quality trades, exits and risk controls
+- **Part VI — Making Profit Without Destroying Yourself:** profit-taking, compounding discipline, mental health in 24/7 markets
+- **Conclusion:** sustainable habits and next-year survivorship as the true win condition
 
-Part V: The Strategy That Finally Worked (Chapters 13-15)
-  - Chapter 13: Market Regimes and Position Sizing
-  - Chapter 14: Entry, Exit, and Risk Control
-  - Chapter 15: Surviving Drawdowns Without Emotional Collapse
+---
 
-Part VI: Making Profit Without Destroying Yourself (Chapters 16-18)
-  - Chapter 16: When and How to Take Profits
-  - Chapter 17: Compounding Without Increasing Stress
-  - Chapter 18: Sustainable Trading in a 24/7 Market
-```
+## Style
 
-## Стиль
+### Tone
+- [ ] Formal
+- [x] Conversational
+- [ ] Academic
+- [ ] Fictional
+- [x] Other: Candid, cautionary, field-guide directness
 
-### Тон
-- [ ] Формальный
-- [x] Разговорный
-- [ ] Академический
-- [ ] Художественный
-- [ ] Другое: ___
+### Narrative (for fiction)
+[Not applicable]
 
-### Повествование (для fiction)
-N/A
+### Style notes
+- First-person, transparent about mistakes and emotional traps
+- Prefers short declarative statements mixed with compact lists for emphasis
+- Values actionable guidance over hype; avoids technical jargon unless explained
+- Uses italics/bold for contrast between hype and discipline
 
-### Особенности стиля
-Personal, honest, and direct. First-person narrative based on real trading experience. No hype, no promises of easy money. Balance personal stories with practical frameworks. Short paragraphs, clear warnings, actionable strategies.
+---
 
-## Референсы
+## References
 
-### Похожие книги
-1. Reminiscences of a Stock Operator (Edwin Lefèvre) — trading psychology
-2. Market Wizards (Jack Schwager) — trader interviews and lessons
-3. The Psychology of Money (Morgan Housel) — financial behavior and decision-making
+### Comparable books
+1. Trading in the Zone (Mark Douglas) — mindset and discipline for traders
+2. The Psychology of Money (Morgan Housel) — behavior-driven finance lessons
+3. Cryptoassets (Chris Burniske & Jack Tatar) — fundamentals and categorization of digital assets
 
-### Источники (для non-fiction)
-- Personal trading experience across eToro, Binance, Coinbase
-- Real trade histories (wins and losses)
-- Crypto market data and patterns
-- Platform fee structures and mechanics
-- Risk management frameworks
+### Sources (for non-fiction)
+- Exchange fee/risk disclosures (eToro, Binance, Coinbase)
+- Historical market data on volatility, drawdowns, and liquidation rates
+- Security best practices for custody/withdrawals; regulatory guidance on platforms
+- Case-study notes from author’s own trading journal (to be expanded)
 
-## Рабочий процесс
+---
 
-### Текущий этап
-- [x] Исследование
-- [x] Планирование
-- [ ] Первый черновик
-- [ ] Редактура
-- [ ] Финальная вычитка
+## Workflow
 
-### Прогресс
+### Current stage
+- [x] Research
+- [x] Planning
+- [ ] First draft
+- [ ] Editing
+- [ ] Final proofread
 
-| Глава | Статус | Слов | Последнее обновление |
-|-------|--------|------|---------------------|
-| 0 (Intro) | planning | 0 | 2026-01-04 |
-| 1-18 | planning | 0 | 2026-01-04 |
+### Progress
 
-## Заметки
+| Chapter/Section | Status | Words | Last update |
+| --- | --- | --- | --- |
+| Introduction | outline | 0 | import pass |
+| Part I — Market Reality | outline | 0 | import pass |
+| Part II — Platforms | outline | 0 | import pass |
+| Part III — Coins | outline | 0 | import pass |
+| Part IV — Wins & Losses | outline | 0 | import pass |
+| Part V — Strategy | outline | 0 | import pass |
+| Part VI — Sustainability | outline | 0 | import pass |
+| Conclusion | outline | 0 | import pass |
 
-- Import completed: crypto-trader-synopsis.md processed
-- Book structure: 6 parts, 18 chapters, ~60,000 words
-- Personal narrative style: first-person trading experiences
-- Focus platforms: eToro, Binance, Coinbase
-- Key message: survive by not losing, systematic over emotional trading
+---
+
+## Notes
+- Validate platform-specific details (fees, custody limitations, regional restrictions)
+- Collect statistics on leverage liquidation rates and survival curves for new traders
+- Capture personal trade logs to expand Part IV case studies
+- Outline exercises/checklists for each part (risk budget calculator, platform setup checklist, emotional circuit breakers)
