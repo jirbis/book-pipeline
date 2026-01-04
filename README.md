@@ -2,6 +2,8 @@
 
 Pipeline for writing books with AI agents via Claude Code.
 
+## ->README FOR HUMANS: [https://jirbis.github.io/ai-book-pipeline](https://jirbis.github.io/ai-book-pipeline)
+
 ## New here?
 
 See [docs/getting-started.md](docs/getting-started.md) for one-command demos (fiction and non-fiction) plus ready-made outputs for screenshots/GIFs.
