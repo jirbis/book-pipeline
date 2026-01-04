@@ -127,6 +127,6 @@ You are free to use it, modify it, and build on it — including for commercial 
 Developed and maintained by **Jirbis GmbH**  
 Specialists in AI-driven process automation and agent-based systems.
 
-- GitHub Repository: https://github.com/jirbis/ai-book-pipeline  
-- Company: https://jirbis.de
+- GitHub Repository: [https://github.com/jirbis/ai-book-pipeline](https://github.com/jirbis/ai-book-pipeline) 
+- Company: [Jirbis GmbH](https://jirbis.de)
 
