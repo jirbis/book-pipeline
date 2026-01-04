@@ -25,14 +25,14 @@
 | **Avg Words/Day** | 9,122 |
 | **Part I (Market Reality)** | ✅ Complete (3/3 chapters) |
 
-### Фаза проекта
+### Project Phase
 
-- [x] 📋 Планирование
-- [x] 🔬 Исследование (import completed)
-- [ ] ✍️ Первый черновик
-- [ ] ✂️ Редактура
-- [ ] 🔍 Вычитка
-- [ ] ✅ Готово
+- [x] 📋 Planning
+- [x] 🔬 Research (import completed)
+- [ ] ✍️ First draft
+- [ ] ✂️ Editing
+- [ ] 🔍 Proofreading
+- [ ] ✅ Complete
 
 ---
 
@@ -61,21 +61,21 @@
 | 18 | Sustainable Trading in 24/7 Market | 3,500 | 0 | 0% | ⬜ outline | - |
 | - | Conclusion | 2,500 | 0 | 0% | ⬜ outline | - |
 
-### Легенда статусов
+### Status Legend
 
-| Статус | Значение |
+| Status | Meaning |
 |--------|----------|
-| ⬜ outline | Только план |
-| 🟡 draft | Первый черновик |
-| 🟠 revision | На редактуре |
-| 🔵 review | На проверке |
-| ✅ final | Готово |
+| ⬜ outline | Outline only |
+| 🟡 draft | First draft |
+| 🟠 revision | In revision |
+| 🔵 review | In review |
+| ✅ final | Complete |
 
 ---
 
-## Вехи (Milestones)
+## Milestones
 
-| Веха | Цель | Дедлайн | Достигнуто | Статус |
+| Milestone | Goal | Deadline | Achieved | Status |
 |------|------|---------|------------|--------|
 | Import completed | - | 2026-01-04 | ✅ | ✅ |
 | Outline complete | - | 2026-01-04 | ✅ | ✅ |
@@ -95,7 +95,7 @@
 
 ---
 
-## Заметки
+## Notes
 
 **2026-01-04**:
 - Import phase completed successfully
