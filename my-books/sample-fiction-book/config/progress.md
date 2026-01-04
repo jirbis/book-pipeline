@@ -2,10 +2,10 @@
 
 ## Project Overview
 
-**Project**: [Book Title]
-**Word Count Goal**: [Total word count]
-**Deadline**: [Date]
-**Start Date**: [Date]
+**Project**: Light Over the Citadel
+**Word Count Goal**: 30,000 words (demo project: 6 chapters)
+**Deadline**: Demo project (no fixed deadline)
+**Start Date**: 2026-01-03
 
 ---
 
@@ -14,24 +14,26 @@
 ### Overall Progress
 
 ```
-██████████░░░░░░░░░░ 50% (40,000 / 80,000 words)
+███░░░░░░░░░░░░░░░░░ 13% (3,912 / 30,000 words)
 ```
 
 | Metric | Value |
 |---------|----------|
-| **Words Written** | 0 |
-| **Chapters Complete** | 0 / [total] |
-| **Days to Deadline** | [N] |
-| **Words per Day (needed)** | [N] |
+| **Words Written** | 3,912 |
+| **Chapters Complete** | 4 / 7 (drafts) |
+| **Days Active** | 2 |
+| **Average per Day** | ~1,956 words |
 
 ### Project Phase
 
-- [ ] 📋 Planning
-- [ ] 🔬 Research
-- [ ] ✍️ First Draft
+- [x] 📋 Planning
+- [x] 🔬 Research
+- [x] ✍️ First Draft (in progress - 57% complete)
 - [ ] ✂️ Editing
 - [ ] 🔍 Proofreading
 - [ ] ✅ Complete
+
+**Current WORKFLOW Phase**: Phase 2 (Writing Drafts) — 4 of 7 chapters drafted
 
 ---
 
@@ -39,12 +41,14 @@
 
 | # | Title | Goal | Actual | % | Status | Updated |
 |---|----------|------|------|---|--------|-----------|
-| 0 | Introduction | 3,000 | 0 | 0% | ⬜ outline | - |
-| 1 | [Title] | 5,000 | 0 | 0% | ⬜ outline | - |
-| 2 | [Title] | 5,000 | 0 | 0% | ⬜ outline | - |
-| 3 | [Title] | 5,000 | 0 | 0% | ⬜ outline | - |
-| ... | | | | | | |
-| N | Conclusion | 3,000 | 0 | 0% | ⬜ outline | - |
+| 0 | The Birth of Neurotron (Prologue) | 500 | 394 | 79% | 🟡 draft | 2026-01-03 |
+| 1 | The City Beneath the Dome | 5,000 | 1,216 | 24% | 🟡 draft | 2026-01-03 |
+| 2 | Dreams as Crimes | 5,000 | 1,200 | 24% | 🟡 draft | 2026-01-03 |
+| 3 | Memory in the Shadows | 5,000 | 1,102 | 22% | 🟡 draft | 2026-01-03 |
+| 4 | Citadel of Neurotron | 5,000 | 0 | 0% | ⬜ outline | - |
+| 5 | The Awakening Spark | 6,000 | 0 | 0% | ⬜ outline | - |
+| E | Epilogue | 3,500 | 0 | 0% | ⬜ outline | - |
+| **TOTAL** | | **30,000** | **3,912** | **13%** | | |
 
 ### Status Legend
 
@@ -60,13 +64,32 @@
 
 ## Daily Log
 
-### [Date]
+### 2026-01-03
 
 | Time | Chapter | Words | Notes |
 |-------|-------|------|---------|
-| [time] | [N] | [+/-] | [what was done] |
+| - | 0 (Prologue) | +394 | Imported from original materials |
+| - | 1 | +1,216 | First draft: City introduction, Aira's dream |
+| - | 2 | +1,200 | First draft: Dreams flagged, meets Cass |
+| - | 3 | +1,102 | First draft: Descent to Undercity |
 
-**Total for day**: 0 words
+**Total for day**: 3,912 words
+**Overall progress**: 3,912 / 30,000 words (13%)
+
+**What went well**:
+- Successfully imported materials from Phase 0
+- Established voice and tone (literary, contemplative)
+- Introduced main characters (Aira, Cass) and setting (dome city)
+
+**What to improve**:
+- Need to deepen Neurotron's characterization
+- Emberbearers require more development
+- Climactic choice needs clearer mechanics
+
+**Plan for next session**:
+- Write Chapter 4: Citadel of Neurotron (~5,000 words)
+- Develop philosophical debates and Curator Zero
+- Set up climactic choice for Chapter 5
 
 ---
 
@@ -96,11 +119,10 @@
 
 ## Weekly Statistics
 
-| Week | Date | Words | Average/day | Goal | ±Goal |
-|--------|------|------|--------------|------|-------|
-| 1 | [date] | 0 | 0 | [N] | - |
-| 2 | [date] | 0 | 0 | [N] | - |
-| ... | | | | | |
+| Week | Date Range | Words | Average/day | Goal | ±Goal |
+|--------|------------|------|-------------|------|-------|
+| 1 | 2026-01-03 | 3,912 | 1,956 | 5,000/week | -1,088 |
+| 2 | - | 0 | 0 | 5,000/week | - |
 
 ---
 
@@ -108,14 +130,17 @@
 
 | Milestone | Goal | Deadline | Achieved | Status |
 |------|------|---------|------------|--------|
-| Outline ready | - | [date] | - | ⬜ |
-| 25% of draft | [N] words | [date] | - | ⬜ |
-| 50% of draft | [N] words | [date] | - | ⬜ |
-| 75% of draft | [N] words | [date] | - | ⬜ |
-| Draft complete | [N] words | [date] | - | ⬜ |
-| Edit #1 | - | [date] | - | ⬜ |
-| Edit #2 | - | [date] | - | ⬜ |
-| Final version | - | [date] | - | ⬜ |
+| Phase 0: Import complete | - | - | 2026-01-03 | ✅ |
+| Phase 1: Outline ready | - | - | 2026-01-03 | ✅ |
+| 13% of draft | 3,912 words | - | 2026-01-03 | ✅ |
+| 50% of draft | 15,000 words | - | - | ⬜ |
+| 75% of draft | 22,500 words | - | - | ⬜ |
+| Phase 2: Draft complete | 30,000 words | - | - | ⬜ |
+| Phase 3: Edit #1 (dev) | - | - | - | ⬜ |
+| Phase 3: Edit #2 (line) | - | - | - | ⬜ |
+| Phase 3: Edit #3 (copy) | - | - | - | ⬜ |
+| Phase 4: Review complete | - | - | - | ⬜ |
+| Phase 5: Final version | - | - | - | ⬜ |
 
 ---
 
@@ -125,13 +150,15 @@
 
 | Issue | Affects | Solution | Status |
 |----------|-----------|---------|--------|
-| [Description] | [Chapters/deadlines] | [Action plan] | 🔴 |
+| Neurotron characterization incomplete | Chapters 4-5 | Develop AI's fears, logic, limitations | 🟡 |
+| Climactic choice mechanics unclear | Chapter 5 | Define destroy vs. merge consequences | 🟡 |
 
 ### Resolved
 
 | Issue | Solution | Lesson |
 |----------|---------|------|
-| [Description] | [What was done] | [Takeaway] |
+| Import structure unclear | Used IMPORTER to classify materials | Always use import-report.md for tracking |
+| PROJECT.md had wrong title | Updated to "Light Over the Citadel" | Verify metadata after import |
 
 ---
 
@@ -141,21 +168,46 @@
 
 | Agent | Calls | Words Generated | Words Approved |
 |-------|---------|-------------------|---------------|
-| Writer | 0 | 0 | 0 |
+| IMPORTER | 1 | - | - |
+| ORCHESTRATOR | 2 | - | - |
+| WRITER | 4 | 3,912 | 3,912 |
+| RESEARCHER | 1 | - | - |
 | Editor | 0 | - | - |
-| Researcher | 0 | - | - |
 | Critic | 0 | - | - |
 
 ### Efficiency
 
 | Metric | Value |
 |---------|----------|
-| % of approved content | 0% |
-| Average words per session | 0 |
-| Iterations per chapter | 0 |
+| % of approved content | 100% (demo, no edits yet) |
+| Average words per chapter | 978 |
+| Iterations per chapter | 1 (first drafts) |
 
 ---
 
 ## Notes
 
-[Observations, insights, process changes]
+### Project Type
+This is a **demo/sample project** for the book-pipeline framework, showcasing:
+- Phase 0: Import of existing materials
+- Phase 1: Initialization and outline creation
+- Phase 2: Chapter draft writing (in progress)
+
+### WORKFLOW Compliance
+- ✅ All phases follow WORKFLOW.md structure
+- ✅ progress.md updated after chapter completion (per WORKFLOW 2.3)
+- ✅ Metadata tracked in chapter files
+- ⚠️ Remaining: Complete chapters 4-5 + Epilogue to finish Phase 2
+
+### Voice & Style Observations
+- Author voice successfully extracted from prologue sample
+- Literary/contemplative tone maintained across chapters
+- Long sentences with deliberate rhythm working well
+- Philosophical dystopian themes coming through clearly
+
+### Next Actions (WORKFLOW Phase 2 completion)
+1. Write Chapter 4: Citadel of Neurotron (~5,000 words)
+2. Write Chapter 5: The Awakening Spark (~6,000 words)
+3. Write Epilogue (~3,500 words)
+4. Update progress.md after each chapter
+5. Transition to Phase 3 (Editing) when all drafts complete
