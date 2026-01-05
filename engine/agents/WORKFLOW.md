@@ -52,8 +52,8 @@ AUTHOR
 ACTION: Gather all materials
 
 ACTIONS:
-1. Create directory my-books/<book-short-name>/files/import/
-2. Place all files there:
+1. Specify the target book directory name (or let IMPORTER create it using your path).
+2. Place all files in my-books/<book-short-name>/files/import/ (or specify the path to your documents in the prompt, IMPORTER will copy them there):
    - Chapter drafts
    - Notes and ideas
    - Research

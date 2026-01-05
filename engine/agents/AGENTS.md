@@ -537,6 +537,16 @@ Organizes author's existing materials into book-writer framework structure. Work
    OUTPUT: Content index
    ```
 
+1a. **Book Location Setup (pre-step)**
+   ```
+   INPUT: User-specified book root and/or source folder (resume/list of files)
+   ACTIONS:
+   - Create the book directory at the user-provided path if it does not exist.
+   - Initialize config/ and files/ subfolders.
+   - If files/import/ is empty, copy the user-provided source materials into files/import/ (leave originals in place) and note the source path in import-report.md.
+   OUTPUT: Ready-to-process book tree with files/import/ populated when a source was provided
+   ```
+
 2. **Auto-generation of PROJECT.md**
    ```
    INPUT: Analysis of imported file contents
