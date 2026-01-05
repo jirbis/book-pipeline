@@ -34,7 +34,7 @@ Turn chaotic drafts and notes into a structured book project.
 INPUT: User-provided target path for the book OR explicit import source folder (resume/list of files)
 
 If the book directory doesn't exist:
-- Create $BOOKS_ROOT/<book-short-name>/ EXACTLY at the user-specified location.
+- Create $BOOKS_ROOT/<book-short-name>/ 
 - Initialize config/ and files/ subfolders.
 
 If user provides a source folder of materials (or a resume/list of where they live):
