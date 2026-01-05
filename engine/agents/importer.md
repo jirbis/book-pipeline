@@ -29,6 +29,20 @@ Turn chaotic drafts and notes into a structured book project.
 
 ## WORKFLOW
 
+### Pre-step: Book Location Setup
+```markdown
+INPUT: User-provided target path for the book OR explicit import source folder (resume/list of files)
+
+If the book directory doesn't exist:
+- Create $BOOKS_ROOT/<book-short-name>/ EXACTLY at the user-specified location.
+- Initialize config/ and files/ subfolders.
+
+If user provides a source folder of materials (or a resume/list of where they live):
+- Ask the user which directory should become the book root when it's not obvious.
+- If files/import/ is empty, copy the provided source folder contents into files/import/ (preserve originals in place).
+- Record the user-specified source path in files/import/import-report.md before processing.
+```
+
 ### Step 1: Material Discovery
 ```markdown
 # Find all author files
